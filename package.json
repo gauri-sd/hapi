@@ -1,0 +1,19 @@
+{
+  "name": "hapi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "hapi-swagger": "^13.0.2",
+    "inert": "^5.1.3",
+    "joi": "^14.3.1",
+    "mongoose": "^5.9.24",
+    "vision": "^5.4.4"
+  }
+}
