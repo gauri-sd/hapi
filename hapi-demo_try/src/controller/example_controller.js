@@ -49,7 +49,7 @@ exports.addProduct = {
     response
 }
 
-exports.get_one = {
+exports.getOne = {
   description: "PUT example: updating product",
   tags: ['api'],
   plugins: {
@@ -64,7 +64,7 @@ exports.get_one = {
   response
 }
 
-exports.updateEmployee = {
+exports.updateProduct = {
   description: "PUT example: updating product",
   tags: ['api'],
   plugins: {
